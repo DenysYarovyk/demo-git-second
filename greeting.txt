@@ -4,4 +4,5 @@ My surname is Yarovyk
 I am from Ukraine
 -------------------------
 
-I want to lern front-end
+I want to lern front-end:
+What i do for that?
